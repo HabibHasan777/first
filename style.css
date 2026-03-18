@@ -1,3 +1,8 @@
 div{
     background-color: tomato;
 }
+.one{
+    background-color: blue;
+    margin: 20px;
+    border: 2px solid black;
+}
